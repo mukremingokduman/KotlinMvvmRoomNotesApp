@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MC Notes App</string>
+    <string name="title">Note Title</string>
+    <string name="enter_title">Enter Note Title</string>
+    <string name="description">Note Description</string>
+    <string name="enter_description">Enter Note Description</string>
+    <string name="time_stamp">Time Stamp</string>
+    <string name="add">Add</string>
+
+
+</resources>
